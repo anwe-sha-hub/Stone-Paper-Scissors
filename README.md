@@ -21,7 +21,9 @@ A fun and interactive **Stone Paper Scissors** (also known as Rock Paper Scissor
 - **JavaScript** – Game logic, randomness, and DOM updates
 
 ---
+Live Server--https://stone-paper-scissors-cxqo.vercel.app/
 
+---
 
 🙋‍♀️ About Me
 Hi! I'm Anwesha Jha — a passionate web developer in training.
